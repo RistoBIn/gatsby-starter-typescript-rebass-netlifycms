@@ -6,7 +6,7 @@ localhost_development:
     api_root: /api
 
 backend:
-  name: github
+  name: git-gateway
   repo: RistoBIn/gatsby-starter-typescript-rebass-netlifycms
   branch: master
 
